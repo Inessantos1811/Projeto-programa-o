@@ -1,4 +1,4 @@
-# Dados
+# Dados relativos aos jogadores NBA
 
 # Contexto
 
