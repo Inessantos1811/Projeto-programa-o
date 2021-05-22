@@ -29,10 +29,10 @@ Jogadores em destaque NBA.csv
 
 # Dicionário de dados 🏀
 
-| ola |  adeus |
-| ----------- |
+| ola ||  adeus |
+| ----- | ----- |
 | odeio | programação |
-| -------------- |
+| ----- | ----- |
 | a rita é génia |
 | ------------------------ |
 
