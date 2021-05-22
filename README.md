@@ -29,7 +29,7 @@ Programação em Python-Fundamentos e Resolução de Problemas, de Ernesto Costa
 
 # Dicionário de dados 🏀
 
-| ola - | adeus ----- |
+| ola   | adeus       |
 | ----- | ----------- |
 | odeio | programação |
 | ----- | ----------- |
