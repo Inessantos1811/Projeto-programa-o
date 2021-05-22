@@ -32,6 +32,6 @@ Programação em Python-Fundamentos e Resolução de Problemas, de Ernesto Costa
 | ola   | adeus       |
 | ----- | ----------- |
 | odeio | programação |
-| ----- | ----------- |
+|       |             |
 | a rita é génia |
 
