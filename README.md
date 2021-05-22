@@ -23,18 +23,13 @@ Programação em Python-Fundamentos e Resolução de Problemas, de Ernesto Costa
 
 # Estrutura 🏀
 
-Jogadores em destaque NBA.csv 
+`Jogadores em destaque NBA.csv `
 
 # API’s usados – notas técnicas 🏀
 
 # Dicionário de dados 🏀
 
 | ola ||  adeus |
-| ----- | ----- |
 | odeio | programação |
-| ----- | ----- |
 | a rita é génia |
-| ------------------------ |
-
-Ass:Mariana Pereira ;)
 
