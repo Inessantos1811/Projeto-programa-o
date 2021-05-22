@@ -28,8 +28,4 @@ ola |  adeus
 -----------
 odeio | programação
 --------------
-xau| adios
------------
-... | ....
------------
-... | coiso
+esta porra nao deu para fazer tabela..... fui enganada.....................
