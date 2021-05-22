@@ -29,5 +29,7 @@ ola |  adeus
 odeio | programação
 --------------
 xau| adios
-epa | esta
-... |  coiso
+-----------
+... | ....
+-----------
+... | coiso
