@@ -29,11 +29,12 @@ Jogadores em destaque NBA.csv
 
 # Dicionário de dados 🏀
 
-ola |  adeus 
------------
-odeio | programação
---------------
-esta porra nao deu para fazer tabela..... fui enganada.....................
-------------------------
+| ola |  adeus |
+| ----------- |
+| odeio | programação |
+| -------------- |
+| a rita é génia |
+| ------------------------ |
+
 Ass:Mariana Pereira ;)
 
