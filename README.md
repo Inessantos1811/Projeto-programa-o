@@ -34,3 +34,5 @@ ola |  adeus
 odeio | programação
 --------------
 esta porra nao deu para fazer tabela..... fui enganada.....................
+------------------------
+ASS: Mariana Pereira ;)
