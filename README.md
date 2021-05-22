@@ -24,8 +24,10 @@ Jogadores em destaque NBA.csv
 
 # Dicionário de dados 🏀
 
-ola |  adeus
+ola |  adeus 
 -----------
 odeio | programação
 --------------
 xau| adios
+epa | esta
+... |  coiso
