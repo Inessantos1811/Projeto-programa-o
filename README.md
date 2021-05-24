@@ -1,4 +1,4 @@
-# Dados relativos aos jogadores NBA 🏀
+# Dados relativos a 50 jogadores de maior destaque na NBA 🏀
 
 # Contexto 🏀
 
