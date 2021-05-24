@@ -27,6 +27,8 @@ Programação em Python-Fundamentos e Resolução de Problemas, de Ernesto Costa
 
 # API’s usados – notas técnicas 🏀
 
+
+
 # Dicionário de dados 🏀
 
 | ola   | adeus       |
@@ -34,5 +36,6 @@ Programação em Python-Fundamentos e Resolução de Problemas, de Ernesto Costa
 | odeio | programação |
 |       |             |
 | a rita é génia |
+| como é que se faz isto | ?????? |
 
 # Poster 🏀
