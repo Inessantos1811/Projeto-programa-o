@@ -23,7 +23,7 @@ Programação em Python-Fundamentos e Resolução de Problemas, de Ernesto Costa
 
 # Estrutura 🏀
 
-`Jogadores em destaque NBA.csv `
+`Jogadores em destaque NBA.csv`:  dados relativos aos 50 jogadores, da NBA, em maior destaque, na última temporada regular jogada. Estes dados foram recolhidos no dia 20 de abril de 2021.
 
 # API’s usados – notas técnicas 🏀
 
