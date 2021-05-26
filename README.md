@@ -31,8 +31,7 @@ Programação em Python-Fundamentos e Resolução de Problemas, de Ernesto Costa
 
 # Dicionário de dados 🏀
 
-| 1  | 2    |
-| ----- | ----------- |
+| Nome  | Significado | Tipo de dados |
 | 1 | 2 |
 
 
