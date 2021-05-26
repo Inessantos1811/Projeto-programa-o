@@ -33,16 +33,16 @@ Programação em Python-Fundamentos e Resolução de Problemas, de Ernesto Costa
 
 | Nome  | Significado | Tipo de dados |
 | ------| ----------- | --------------|
-| Jogador | Nome do jogador(primeiro e último) |object|
-|Equipa| Nome da equipa de onde cada jogador faz parte|object|
-|Partidas jogadas|Número de jogos que cada jogador fez ao longo da época|int64|
-|Minutos por jogo|Média de minutos que cada atleta jogou por partida|float64|
-|Pontos|Média de pontos que cada atleta marcou por partida|float64|
-|Arremessos convertidos|Número de lançamentos convertidos por cada jogador ao longo da época|int64|
-|Tentativa de arremessos|Número de tentativas de lançamentos por cada jogador ao longo da época|int64|
-|Arremesso de 3 pontos convertidos|Número de lançamentos de 3 pontos convertidos por cada jogador ao longo da época|int64|
-|Tentativa de arremessos de 3 pontos|Número de tentativas de lançamentos de 3 pontos por cada jogador ao longo da época|int64|
-|Lances livre convertido|Número de lances livres convertidos por cada jogador ao longo da época|int64|
-|Tentativa de arremessos livre|Número de tentativas de lançamentos livres por cada jogador ao longo da época|int64|
+|`Jogador`| Nome do jogador(primeiro e último) |object|
+|`Equipa`| Nome da equipa de onde cada jogador faz parte|object|
+|`Partidas jogadas`|Número de jogos que cada jogador fez ao longo da época|int64|
+|`Minutos por jogo`|Média de minutos que cada atleta jogou por partida|float64|
+|`Pontos`|Média de pontos que cada atleta marcou por partida|float64|
+|`Arremessos convertidos`|Número de lançamentos convertidos por cada jogador ao longo da época|int64|
+|`Tentativa de arremessos`|Número de tentativas de lançamentos por cada jogador ao longo da época|int64|
+|`Arremesso de 3 pontos convertidos`|Número de lançamentos de 3 pontos convertidos por cada jogador ao longo da época|int64|
+|`Tentativa de arremessos de 3 pontos`|Número de tentativas de lançamentos de 3 pontos por cada jogador ao longo da época|int64|
+|`Lances livre convertido`|Número de lances livres convertidos por cada jogador ao longo da época|int64|
+|`Tentativa de arremessos livre`|Número de tentativas de lançamentos livres por cada jogador ao longo da época|int64|
 
 # Poster 🏀
