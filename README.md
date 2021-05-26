@@ -32,9 +32,9 @@ Programação em Python-Fundamentos e Resolução de Problemas, de Ernesto Costa
 # Dicionário de dados 🏀
 
 | Nome  | Significado | Tipo de dados |
-| ------| ----------- |
-| Jogador | Nome do jogador(primeiro e último) |
-| | |
+| ------| ----------- | --------------|
+| Jogador | Nome do jogador(primeiro e último) | string|
+| | | |
 | rita | rita |
 
 
