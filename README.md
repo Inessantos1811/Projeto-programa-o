@@ -27,7 +27,7 @@ Programação em Python-Fundamentos e Resolução de Problemas, de Ernesto Costa
 
 # API’s usados – notas técnicas 🏀
 
-
+Para a recolha destes dados, visitámos o site MSN, na sua secção de dados de jogadores em destaque.
 
 # Dicionário de dados 🏀
 
