@@ -31,12 +31,9 @@ Programação em Python-Fundamentos e Resolução de Problemas, de Ernesto Costa
 
 # Dicionário de dados 🏀
 
-| ola   | adeus       |
+| 1  | 2    |
 | ----- | ----------- |
-| odeio | programação |
-|       |             |
-| a rita é génia |
-| como é que se faz isto | ?????? |
-| jasusssss|
+| 1 | 2 |
+
 
 # Poster 🏀
