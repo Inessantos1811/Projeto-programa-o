@@ -8,8 +8,7 @@ Os dados usados, são retirados do site oficial do MSN ( https://www.msn.com/pt-
 
 Para uma melhor utilização, achamos por bem fazer uma “limpeza”, retirando alguns zeros, pontos e vírgulas que se mostraram desnecessários, acabando por também rejeitar 3 colunas de dados dispensáveis: Percentagem de Arremessos, Percentagem de Arremessos de 3 Pontos e Percentagem de Lances Livres. Depois de uma análise ainda no Excel, acreditamos não existirem valores ausentes, duplicados, ou a precisar de correção. 
 
-
-REFERIR QUAIS SÃO OS CAMPOS RELEVANTES PARA O PROJETO
+Relativamente a campos relevantes, considera-se:
 
 # Bibliografia 🏀
 
