@@ -27,7 +27,19 @@ Programação em Python-Fundamentos e Resolução de Problemas, de Ernesto Costa
 
 # API’s usados – notas técnicas 🏀
 
-Para a recolha destes dados, visitámos o site MSN, na sua secção de dados de jogadores em destaque. 
+Primeiramente apresentou-se o HTML (MSN). Como o mesmo tem apenas a tabela que queremos analisar, transferimos a mesma para csv.
+
+Apresentação do HTML:
+#df = pd.read_html ('https://www.msn.com/pt-br/esportes/basquete/nba/estatisticas-do-jogador?ocid=StripeOCID')
+
+HTML para csv: código feito através de pesquisa no youtube:
+#df[0].to_csv('Dados NBA 2021') 
+Baseado no video:
+https://www.youtube.com/watch?v=ODNMNwgtehk&t=213s ('Scrape HTML tables easily with Pandas and Python')
+
+Depois de ter o código em csv, passamos à analise: averiguar se faltam dados na tabela ( df.info() ) e comprovar que encontra corretamente preenchida, sem dados em falta. Assim ficamos a saber, também, com que tipos de dados vamos trabalhar.
+
+Este processo foi realizado para todos os dados.
 
 # Dicionário de dados 🏀
 
