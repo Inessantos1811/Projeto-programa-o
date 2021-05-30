@@ -1,4 +1,4 @@
-![Destaques NBA](https://user-images.githubusercontent.com/76159858/120102638-dd9dad80-c143-11eb-87b1-be6bbfcd78a4.png)
+
 # Dados relativos aos 50 jogadores de maior destaque na NBA 🏀
 
 # Contexto 🏀
@@ -59,3 +59,4 @@ Este processo foi realizado para todos os dados.
 |`Tentativa de arremessos livre`|Número de tentativas de lançamentos livres por cada jogador ao longo da época|int64|
 
 # Poster 🏀
+![Destaques NBA](https://user-images.githubusercontent.com/76159858/120102638-dd9dad80-c143-11eb-87b1-be6bbfcd78a4.png)
