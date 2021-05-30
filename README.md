@@ -9,7 +9,6 @@ Os dados usados, são retirados do site oficial do MSN ( https://www.msn.com/pt-
 
 Para uma melhor utilização, achamos por bem fazer uma “limpeza”, retirando alguns zeros, pontos e vírgulas que se mostraram desnecessários, acabando por também rejeitar 3 colunas de dados dispensáveis: Percentagem de Arremessos, Percentagem de Arremessos de 3 Pontos e Percentagem de Lances Livres. Depois de uma análise ainda no Excel, acreditamos não existirem valores ausentes, duplicados, ou a precisar de correção. 
 
-Relativamente a campos relevantes, considera-se:
 
 # Bibliografia 🏀
 
@@ -21,9 +20,11 @@ Relativamente a campos relevantes, considera-se:
 
 Programação em Python-Fundamentos e Resolução de Problemas, de Ernesto Costa 
 
+
 # Estrutura 🏀
 
 `Jogadores em destaque NBA.csv`:  dados relativos aos 50 jogadores, da NBA, em maior destaque, na última temporada regular jogada. Estes dados foram recolhidos no dia 20 de abril de 2021.
+
 
 # API’s usados – notas técnicas 🏀
 
@@ -41,6 +42,7 @@ Depois de ter o código em csv, passamos à analise: averiguar se faltam dados n
 
 Este processo foi realizado para todos os dados.
 
+
 # Dicionário de dados 🏀
 
 | Nome  | Significado | Tipo de dados |
@@ -57,6 +59,7 @@ Este processo foi realizado para todos os dados.
 |`Tentativa de arremessos de 3 pontos`|Número de tentativas de lançamentos de 3 pontos por cada jogador ao longo da época|int64|
 |`Lances livre convertido`|Número de lances livres convertidos por cada jogador ao longo da época|int64|
 |`Tentativa de arremessos livre`|Número de tentativas de lançamentos livres por cada jogador ao longo da época|int64|
+
 
 # Poster 🏀
 ![Destaques NBA](https://user-images.githubusercontent.com/76159858/120102638-dd9dad80-c143-11eb-87b1-be6bbfcd78a4.png)
