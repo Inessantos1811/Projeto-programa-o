@@ -1,3 +1,4 @@
+![Destaques NBA](https://user-images.githubusercontent.com/76159858/120102638-dd9dad80-c143-11eb-87b1-be6bbfcd78a4.png)
 # Dados relativos aos 50 jogadores de maior destaque na NBA 🏀
 
 # Contexto 🏀
