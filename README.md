@@ -44,6 +44,7 @@ Este processo foi realizado para todos os dados.
 
 | Nome  | Significado | Tipo de dados |
 | ------| ----------- | --------------|
+|`Posição`| Classificação dos melhores jogadores|int64|
 |`Jogador`| Nome do jogador(primeiro e último) |object|
 |`Equipa`| Nome da equipa de onde cada jogador faz parte|object|
 |`Partidas jogadas`|Número de jogos que cada jogador fez ao longo da época|int64|
