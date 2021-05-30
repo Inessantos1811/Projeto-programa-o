@@ -38,9 +38,8 @@ HTML para csv: código feito através de pesquisa no youtube:
 Baseado no video:
 https://www.youtube.com/watch?v=ODNMNwgtehk&t=213s ('Scrape HTML tables easily with Pandas and Python')
 
-Depois de ter o código em csv, passamos à analise: averiguar se faltam dados na tabela ( df.info() ) e comprovar que encontra corretamente preenchida, sem dados em falta. Assim ficamos a saber, também, com que tipos de dados vamos trabalhar.
+Depois de ter o código em csv, passamos à analise: averiguar se faltam dados na tabela ( df.info() ) e comprovar que se encontra corretamente preenchida, sem dados em falta. Assim ficamos a saber, também, com que tipos de dados vamos trabalhar.
 
-Este processo foi realizado para todos os dados.
 
 
 # Dicionário de dados 🏀
