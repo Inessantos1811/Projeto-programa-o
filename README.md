@@ -34,7 +34,7 @@ Apresentação do HTML:
 #df = pd.read_html ('https://www.msn.com/pt-br/esportes/basquete/nba/estatisticas-do-jogador?ocid=StripeOCID')
 
 HTML para csv: código feito através de pesquisa no youtube:
-#df[0].to_csv('Dados NBA 2021') 
+#df[0].to_csv('Jogadores em destaque NBA') 
 Baseado no video:
 https://www.youtube.com/watch?v=ODNMNwgtehk&t=213s ('Scrape HTML tables easily with Pandas and Python')
 
